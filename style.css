@@ -1,0 +1,40 @@
+.zagolovok {
+	display: inline-block;
+	text-align: center;
+	background-color: black;
+	color: white;
+	padding: 2px;
+	
+}
+.imagess {
+	width: 150px;
+	height: 100px;
+}
+.pfone {
+	background:linear-gradient(45deg, black, white);
+}
+.videoKategory1{
+	display: inline-block;
+	background: linear-gradient(45deg, red, purple);
+	margin-top: 10px;
+	padding: 1px;
+
+
+}
+.kategory {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 100%;
+}
+.videss {
+	display: inline-block;
+	background: linear-gradient(45deg, red, purple);
+	margin-top: 10px;
+	padding: 1px;
+}
+.textr {
+	font-family: Arial, Helvetica, sans-serif;
+}
+.bymy {
+	margin-top: 250px;
+}
+
